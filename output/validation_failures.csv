@@ -1,0 +1,126 @@
+rule,severity,message,company_id,year
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,TTM
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,TTM
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2013
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2014
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2015
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2016
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2017
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2018
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2019
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2020
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2021
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2022
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2023
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2024
+DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,TTM
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2013
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2014
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2015
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2016
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2017
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2018
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2019
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2020
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2021
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2022
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2023
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2024
+DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,TTM
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2013
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2014
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2015
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2016
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2017
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2018
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2019
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2020
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2021
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2022
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2023
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2024
+DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,TTM
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2012
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2013
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2014
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2015
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2016
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2017
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2018
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2019
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2020
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2021
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2022
+DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2023
+DQ-03,CRITICAL,company_id not found in companies table,VBL,TTM
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2013
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2014
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2015
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2016
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2017
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2018
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2019
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2020
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2021
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2022
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2023
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2024
+DQ-03,CRITICAL,company_id not found in companies table,VEDL,TTM
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2013
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2014
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2015
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2016
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2017
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2018
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2019
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2020
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2021
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2022
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2023
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2024
+DQ-03,CRITICAL,company_id not found in companies table,WIPRO,TTM
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2018
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2019
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2020
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2021
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2022
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2023
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2024
+DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,TTM
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2013
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2014
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2015
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2016
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2017
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2018
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2019
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2020
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2021
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2022
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2023
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2024
+DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,TTM

@@ -1,0 +1,18 @@
+Manual Review Summary - Sprint 1
+
+Reviewed Companies:
+1. TCS
+2. HDFCBANK
+3. RELIANCE
+4. INFY
+5. ABB
+
+Findings:
+- P&L year coverage is mostly consistent with 12-13 records per company.
+- Balance Sheet year coverage is mostly consistent with 12-13 records per company.
+- Cash Flow table shows higher row counts for TCS and ABB, indicating possible duplicate cash flow records.
+- Foreign key check returned 0 rows, confirming successful database relationship validation.
+- Data has been loaded successfully into nifty100.db.
+
+Status:
+Manual review completed. Minor duplicate patterns observed in cashflow data for some companies and can be reviewed during cleanup.
