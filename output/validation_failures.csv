@@ -1,126 +1,1353 @@
 rule,severity,message,company_id,year
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2013
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2014
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2015
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2016
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2017
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2018
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2019
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2020
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2021
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2022
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2023
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2024
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,TTM
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2013
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2014
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2015
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2016
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2017
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2018
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2019
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2020
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2021
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2022
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2023
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,Mar 2024
-DQ-02,CRITICAL,Duplicate company-year row in profitandloss table,ADANIPORTS,TTM
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2013
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2014
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2015
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2016
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2017
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2018
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2019
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2020
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2021
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2022
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2023
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,Mar 2024
-DQ-03,CRITICAL,company_id not found in companies table,ULTRACEMCO,TTM
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2013
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2014
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2015
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2016
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2017
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2018
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2019
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2020
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2021
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2022
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2023
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,Mar 2024
-DQ-03,CRITICAL,company_id not found in companies table,UNIONBANK,TTM
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2013
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2014
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2015
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2016
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2017
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2018
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2019
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2020
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2021
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2022
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2023
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,Mar 2024
-DQ-03,CRITICAL,company_id not found in companies table,UNITDSPR,TTM
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2012
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2013
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2014
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2015
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2016
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2017
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2018
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2019
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2020
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2021
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2022
-DQ-03,CRITICAL,company_id not found in companies table,VBL,Dec 2023
-DQ-03,CRITICAL,company_id not found in companies table,VBL,TTM
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2013
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2014
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2015
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2016
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2017
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2018
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2019
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2020
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2021
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2022
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2023
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,Mar 2024
-DQ-03,CRITICAL,company_id not found in companies table,VEDL,TTM
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2013
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2014
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2015
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2016
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2017
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2018
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2019
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2020
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2021
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2022
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2023
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,Mar 2024
-DQ-03,CRITICAL,company_id not found in companies table,WIPRO,TTM
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2018
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2019
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2020
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2021
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2022
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2023
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,Mar 2024
-DQ-03,CRITICAL,company_id not found in companies table,ZOMATO,TTM
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2013
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2014
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2015
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2016
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2017
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2018
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2019
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2020
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2021
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2022
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2023
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,Mar 2024
-DQ-03,CRITICAL,company_id not found in companies table,ZYDUSLIFE,TTM
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,TTM
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in profitandloss,ADANIPORTS,TTM
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Sep 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,ASIANPAINT,Sep 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,PNB,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Sep 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,POWERGRID,Sep 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Sep 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in balancesheet,TECHM,Sep 2024
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in cashflow,ABB,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2024
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2013
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2014
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2015
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2016
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2017
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2018
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2019
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2020
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2021
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2022
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2023
+DQ-02,CRITICAL,Duplicate company-year in cashflow,BAJAJ-AUTO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ULTRACEMCO,TTM
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNIONBANK,TTM
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,UNITDSPR,TTM
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2012
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2013
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2014
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2015
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2016
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2017
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,Dec 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VBL,TTM
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,VEDL,TTM
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,WIPRO,TTM
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZOMATO,TTM
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in profitandloss,ZYDUSLIFE,TTM
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2013
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2014
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2015
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2016
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2017
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2018
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2019
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2020
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2021
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2022
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2023
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2024
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZYDUSLIFE,2024.5
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2018
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2019
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2020
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2021
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2022
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2023
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2024
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ZOMATO,2024.5
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2013
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2014
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2015
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2016
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2017
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2018
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2019
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2020
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2021
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2022
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2023
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2024
+DQ-03,CRITICAL,Invalid company_id in balancesheet,WIPRO,2024.5
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2013
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2014
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2015
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2016
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2017
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2018
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2019
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2020
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2021
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2022
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2023
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2024
+DQ-03,CRITICAL,Invalid company_id in balancesheet,VEDL,2024.5
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2013
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2014
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2015
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2016
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2017
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2018
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2019
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2020
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2021
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2022
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2023
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2024
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNITDSPR,2024.5
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in balancesheet,UNIONBANK,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in balancesheet,ULTRACEMCO,Sep 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,AGTL,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,AGTL,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,AGTL,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,AGTL,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,AGTL,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,AGTL,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,AGTL,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,ULTRACEMCO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNIONBANK,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,UNITDSPR,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2012
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2013
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2014
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2015
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2016
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2017
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,VBL,Dec 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,VEDL,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,WIPRO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZOMATO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZOMATO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZOMATO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZOMATO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZOMATO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in cashflow,ZYDUSLIFE,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,ULTRACEMCO,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNIONBANK,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,UNITDSPR,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VBL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,VEDL,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,WIPRO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZOMATO,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in documents,ZYDUSLIFE,
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,ULTRACEMCO,Mar 2024
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2013
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2014
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2015
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2016
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2017
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2018
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2019
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2020
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2021
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2022
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2023
+DQ-03,CRITICAL,Invalid company_id in financial_ratios,UNIONBANK,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,ADANIENSOL,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,AXISBANK,TTM
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,BAJFINANCE,TTM
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,BANKBARODA,TTM
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,CANBK,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,CANBK,TTM
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,CHOLAFIN,TTM
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,CIPLA,TTM
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,COALINDIA,TTM
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,HDFCBANK,TTM
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,HDFCLIFE,TTM
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,HEROMOTOCO,TTM
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,HINDALCO,TTM
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,HINDUNILVR,TTM
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,ICICIBANK,TTM
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,ICICIGI,TTM
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,ICICIPRULI,TTM
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,INDUSINDBK,TTM
+DQ-05,WARNING,OPM mismatch >1%,JIOFIN,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,KOTAKBANK,TTM
+DQ-05,WARNING,OPM mismatch >1%,SUNPHARMA,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2013
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2014
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2015
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2016
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2017
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2018
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2019
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2020
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2021
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2022
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2023
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,Mar 2024
+DQ-05,WARNING,OPM mismatch >1%,INDIGO,TTM
+DQ-06,CRITICAL,Sales is zero or negative,ADANIENSOL,Mar 2014
+DQ-07,CRITICAL,Total assets zero or negative,ADANIENSOL,Mar 2014
+DQ-08,CRITICAL,Total liabilities zero or negative,ADANIENSOL,Mar 2014
+DQ-09,WARNING,Net cash flow mismatch >10 Cr,TVSMOTOR,Mar 2022
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIENT,Mar 2014
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIGREEN,Mar 2017
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIGREEN,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIGREEN,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIPOWER,Mar 2014
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIPOWER,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIPOWER,Mar 2017
+DQ-10,WARNING,Tax percentage outside 0-100,ADANIPOWER,Mar 2023
+DQ-10,WARNING,Tax percentage outside 0-100,AMBUJACEM,Dec 2018
+DQ-10,WARNING,Tax percentage outside 0-100,AXISBANK,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,BANKBARODA,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,BANKBARODA,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,BANKBARODA,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,BHARTIARTL,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,BHARTIARTL,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,BHEL,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,BHEL,Mar 2021
+DQ-10,WARNING,Tax percentage outside 0-100,BHEL,Mar 2024
+DQ-10,WARNING,Tax percentage outside 0-100,CANBK,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,CANBK,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,CANBK,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,DLF,Mar 2014
+DQ-10,WARNING,Tax percentage outside 0-100,DRREDDY,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,GODREJCP,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,GRASIM,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,HDFCLIFE,Mar 2024
+DQ-10,WARNING,Tax percentage outside 0-100,IOC,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,JINDALSTEL,Mar 2015
+DQ-10,WARNING,Tax percentage outside 0-100,JINDALSTEL,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,JINDALSTEL,Mar 2017
+DQ-10,WARNING,Tax percentage outside 0-100,JINDALSTEL,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,JINDALSTEL,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,JSWSTEEL,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,JSWSTEEL,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,LODHA,Mar 2021
+DQ-10,WARNING,Tax percentage outside 0-100,LODHA,Mar 2023
+DQ-10,WARNING,Tax percentage outside 0-100,MOTHERSON,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,NHPC,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,NHPC,Mar 2022
+DQ-10,WARNING,Tax percentage outside 0-100,NTPC,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,NTPC,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,PNB,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,PNB,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,PNB,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,POWERGRID,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,SBIN,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,SHREECEM,Jun 2015
+DQ-10,WARNING,Tax percentage outside 0-100,TATAMOTORS,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,TATAMOTORS,Mar 2024
+DQ-10,WARNING,Tax percentage outside 0-100,TATASTEEL,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,TRENT,Mar 2021
+DQ-10,WARNING,Tax percentage outside 0-100,ULTRACEMCO,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,UNIONBANK,Mar 2017
+DQ-10,WARNING,Tax percentage outside 0-100,UNIONBANK,Mar 2018
+DQ-10,WARNING,Tax percentage outside 0-100,UNIONBANK,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,UNIONBANK,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,UNIONBANK,Mar 2021
+DQ-10,WARNING,Tax percentage outside 0-100,VBL,Dec 2012
+DQ-10,WARNING,Tax percentage outside 0-100,VBL,Dec 2013
+DQ-10,WARNING,Tax percentage outside 0-100,VEDL,Mar 2013
+DQ-10,WARNING,Tax percentage outside 0-100,VEDL,Mar 2014
+DQ-10,WARNING,Tax percentage outside 0-100,VEDL,Mar 2016
+DQ-10,WARNING,Tax percentage outside 0-100,VEDL,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,ZOMATO,Mar 2023
+DQ-10,WARNING,Tax percentage outside 0-100,ZOMATO,Mar 2024
+DQ-10,WARNING,Tax percentage outside 0-100,INDIGO,Mar 2019
+DQ-10,WARNING,Tax percentage outside 0-100,INDIGO,Mar 2020
+DQ-10,WARNING,Tax percentage outside 0-100,INDIGO,Mar 2024
+DQ-11,WARNING,Dividend payout unusually high,AMBUJACEM,Dec 2020
+DQ-11,WARNING,Dividend payout unusually high,BHARTIARTL,Mar 2018
+DQ-11,WARNING,Dividend payout unusually high,BHARTIARTL,Mar 2019
+DQ-11,WARNING,Dividend payout unusually high,BHEL,Mar 2018
+DQ-11,WARNING,Dividend payout unusually high,BRITANNIA,Mar 2021
+DQ-11,WARNING,Dividend payout unusually high,M&M,Mar 2020
+DQ-11,WARNING,Dividend payout unusually high,NESTLEIND,Dec 2019
+DQ-11,WARNING,Dividend payout unusually high,SBIN,Mar 2017
+DQ-11,WARNING,Dividend payout unusually high,TATAPOWER,Mar 2015
+DQ-11,WARNING,Dividend payout unusually high,VEDL,Mar 2023
+DQ-11,WARNING,Dividend payout unusually high,VEDL,Mar 2024
+DQ-12,WARNING,Invalid annual report URL,ADANIENSOL,2015
+DQ-12,WARNING,Invalid annual report URL,ADANIENSOL,2014
+DQ-12,WARNING,Invalid annual report URL,ADANIENSOL,2013
+DQ-12,WARNING,Invalid annual report URL,ADANIENSOL,2012
+DQ-12,WARNING,Invalid annual report URL,ADANIENSOL,2011
+DQ-12,WARNING,Invalid annual report URL,ADANIENSOL,2010
+DQ-12,WARNING,Invalid annual report URL,ADANIENSOL,2009
+DQ-12,WARNING,Invalid annual report URL,ADANIENT,2011
+DQ-12,WARNING,Invalid annual report URL,ADANIENT,2010
+DQ-12,WARNING,Invalid annual report URL,ADANIENT,2009
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2017
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2016
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2015
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2014
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2013
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2012
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2011
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2010
+DQ-12,WARNING,Invalid annual report URL,ADANIGREEN,2009
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2019
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2018
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2017
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2015
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2014
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2013
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2012
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2010
+DQ-12,WARNING,Invalid annual report URL,ADANIPORTS,2009
+DQ-12,WARNING,Invalid annual report URL,ADANIPOWER,2015
+DQ-12,WARNING,Invalid annual report URL,ADANIPOWER,2014
+DQ-12,WARNING,Invalid annual report URL,ADANIPOWER,2013
+DQ-12,WARNING,Invalid annual report URL,ADANIPOWER,2011
+DQ-12,WARNING,Invalid annual report URL,ADANIPOWER,2010
+DQ-12,WARNING,Invalid annual report URL,ADANIPOWER,2009
+DQ-12,WARNING,Invalid annual report URL,AMBUJACEM,2014
+DQ-12,WARNING,Invalid annual report URL,AMBUJACEM,2013
+DQ-12,WARNING,Invalid annual report URL,AMBUJACEM,2012
+DQ-12,WARNING,Invalid annual report URL,AMBUJACEM,2010
+DQ-12,WARNING,Invalid annual report URL,AMBUJACEM,2009
+DQ-12,WARNING,Invalid annual report URL,APOLLOHOSP,2019
+DQ-12,WARNING,Invalid annual report URL,APOLLOHOSP,2015
+DQ-12,WARNING,Invalid annual report URL,APOLLOHOSP,2010
+DQ-12,WARNING,Invalid annual report URL,APOLLOHOSP,2009
+DQ-12,WARNING,Invalid annual report URL,ASIANPAINT,2013
+DQ-12,WARNING,Invalid annual report URL,ASIANPAINT,2012
+DQ-12,WARNING,Invalid annual report URL,ASIANPAINT,2010
+DQ-12,WARNING,Invalid annual report URL,ASIANPAINT,2009
+DQ-12,WARNING,Invalid annual report URL,ATGL,2018
+DQ-12,WARNING,Invalid annual report URL,ATGL,2017
+DQ-12,WARNING,Invalid annual report URL,ATGL,2016
+DQ-12,WARNING,Invalid annual report URL,ATGL,2015
+DQ-12,WARNING,Invalid annual report URL,ATGL,2014
+DQ-12,WARNING,Invalid annual report URL,ATGL,2013
+DQ-12,WARNING,Invalid annual report URL,ATGL,2012
+DQ-12,WARNING,Invalid annual report URL,ATGL,2011
+DQ-12,WARNING,Invalid annual report URL,ATGL,2010
+DQ-12,WARNING,Invalid annual report URL,ATGL,2009
+DQ-12,WARNING,Invalid annual report URL,AXISBANK,2010
+DQ-12,WARNING,Invalid annual report URL,AXISBANK,2009
+DQ-12,WARNING,Invalid annual report URL,BAJAJ-AUTO,2014
+DQ-12,WARNING,Invalid annual report URL,BAJAJ-AUTO,2010
+DQ-12,WARNING,Invalid annual report URL,BAJAJ-AUTO,2009
+DQ-12,WARNING,Invalid annual report URL,BAJAJFINSV,2010
+DQ-12,WARNING,Invalid annual report URL,BAJAJFINSV,2009
+DQ-12,WARNING,Invalid annual report URL,BAJAJHLDNG,2010
+DQ-12,WARNING,Invalid annual report URL,BAJAJHLDNG,2009
+DQ-12,WARNING,Invalid annual report URL,BAJFINANCE,2010
+DQ-12,WARNING,Invalid annual report URL,BAJFINANCE,2009
+DQ-12,WARNING,Invalid annual report URL,BANKBARODA,2010
+DQ-12,WARNING,Invalid annual report URL,BANKBARODA,2009
+DQ-12,WARNING,Invalid annual report URL,BEL,2022
+DQ-12,WARNING,Invalid annual report URL,BEL,2019
+DQ-12,WARNING,Invalid annual report URL,BEL,2015
+DQ-12,WARNING,Invalid annual report URL,BEL,2012
+DQ-12,WARNING,Invalid annual report URL,BEL,2011
+DQ-12,WARNING,Invalid annual report URL,BEL,2010
+DQ-12,WARNING,Invalid annual report URL,BEL,2009
+DQ-12,WARNING,Invalid annual report URL,BHARTIARTL,2021
+DQ-12,WARNING,Invalid annual report URL,BHARTIARTL,2018
+DQ-12,WARNING,Invalid annual report URL,BHARTIARTL,2011
+DQ-12,WARNING,Invalid annual report URL,BHARTIARTL,2010
+DQ-12,WARNING,Invalid annual report URL,BHARTIARTL,2009
+DQ-12,WARNING,Invalid annual report URL,BHEL,2015
+DQ-12,WARNING,Invalid annual report URL,BHEL,2014
+DQ-12,WARNING,Invalid annual report URL,BHEL,2013
+DQ-12,WARNING,Invalid annual report URL,BHEL,2012
+DQ-12,WARNING,Invalid annual report URL,BHEL,2011
+DQ-12,WARNING,Invalid annual report URL,BHEL,2010
+DQ-12,WARNING,Invalid annual report URL,BHEL,2009
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2019
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2018
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2017
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2014
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2013
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2012
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2011
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2010
+DQ-12,WARNING,Invalid annual report URL,BOSCHLTD,2009
+DQ-12,WARNING,Invalid annual report URL,BPCL,2022
+DQ-12,WARNING,Invalid annual report URL,BPCL,2019
+DQ-12,WARNING,Invalid annual report URL,BPCL,2016
+DQ-12,WARNING,Invalid annual report URL,BPCL,2015
+DQ-12,WARNING,Invalid annual report URL,BPCL,2010
+DQ-12,WARNING,Invalid annual report URL,BPCL,2009
+DQ-12,WARNING,Invalid annual report URL,BRITANNIA,2010
+DQ-12,WARNING,Invalid annual report URL,BRITANNIA,2009
+DQ-12,WARNING,Invalid annual report URL,CANBK,2010
+DQ-12,WARNING,Invalid annual report URL,CANBK,2009
+DQ-12,WARNING,Invalid annual report URL,CHOLAFIN,2015
+DQ-12,WARNING,Invalid annual report URL,CHOLAFIN,2010
+DQ-12,WARNING,Invalid annual report URL,CHOLAFIN,2009
+DQ-12,WARNING,Invalid annual report URL,CIPLA,2010
+DQ-12,WARNING,Invalid annual report URL,CIPLA,2009
+DQ-12,WARNING,Invalid annual report URL,COALINDIA,2010
+DQ-12,WARNING,Invalid annual report URL,DABUR,2010
+DQ-12,WARNING,Invalid annual report URL,DABUR,2009
+DQ-12,WARNING,Invalid annual report URL,DLF,2018
+DQ-12,WARNING,Invalid annual report URL,DLF,2017
+DQ-12,WARNING,Invalid annual report URL,DLF,2010
+DQ-12,WARNING,Invalid annual report URL,DLF,2009
+DQ-12,WARNING,Invalid annual report URL,DMART,2016
+DQ-12,WARNING,Invalid annual report URL,DMART,2015
+DQ-12,WARNING,Invalid annual report URL,DMART,2014
+DQ-12,WARNING,Invalid annual report URL,DMART,2013
+DQ-12,WARNING,Invalid annual report URL,DMART,2012
+DQ-12,WARNING,Invalid annual report URL,DMART,2011
+DQ-12,WARNING,Invalid annual report URL,DMART,2010
+DQ-12,WARNING,Invalid annual report URL,DMART,2009
+DQ-12,WARNING,Invalid annual report URL,DRREDDY,2011
+DQ-12,WARNING,Invalid annual report URL,DRREDDY,2010
+DQ-12,WARNING,Invalid annual report URL,DRREDDY,2009
+DQ-12,WARNING,Invalid annual report URL,EICHERMOT,2019
+DQ-12,WARNING,Invalid annual report URL,EICHERMOT,2010
+DQ-12,WARNING,Invalid annual report URL,EICHERMOT,2009
+DQ-12,WARNING,Invalid annual report URL,GAIL,2010
+DQ-12,WARNING,Invalid annual report URL,GAIL,2009
+DQ-12,WARNING,Invalid annual report URL,GODREJCP,2010
+DQ-12,WARNING,Invalid annual report URL,GODREJCP,2009
+DQ-12,WARNING,Invalid annual report URL,GRASIM,2010
+DQ-12,WARNING,Invalid annual report URL,GRASIM,2009
+DQ-12,WARNING,Invalid annual report URL,HAL,2011
+DQ-12,WARNING,Invalid annual report URL,HAL,2009
+DQ-12,WARNING,Invalid annual report URL,HAVELLS,2010
+DQ-12,WARNING,Invalid annual report URL,HAVELLS,2009
+DQ-12,WARNING,Invalid annual report URL,HCLTECH,2011
+DQ-12,WARNING,Invalid annual report URL,HCLTECH,2010
+DQ-12,WARNING,Invalid annual report URL,HCLTECH,2009
+DQ-12,WARNING,Invalid annual report URL,HDFCBANK,2013
+DQ-12,WARNING,Invalid annual report URL,HDFCBANK,2011
+DQ-12,WARNING,Invalid annual report URL,HDFCBANK,2010
+DQ-12,WARNING,Invalid annual report URL,HDFCBANK,2009
+DQ-12,WARNING,Invalid annual report URL,HDFCLIFE,2012
+DQ-12,WARNING,Invalid annual report URL,HDFCLIFE,2011
+DQ-12,WARNING,Invalid annual report URL,HDFCLIFE,2010
+DQ-12,WARNING,Invalid annual report URL,HDFCLIFE,2009
+DQ-12,WARNING,Invalid annual report URL,HDFCLIFE,2008
+DQ-12,WARNING,Invalid annual report URL,HEROMOTOCO,2010
+DQ-12,WARNING,Invalid annual report URL,HEROMOTOCO,2009
+DQ-12,WARNING,Invalid annual report URL,HINDALCO,2010
+DQ-12,WARNING,Invalid annual report URL,HINDALCO,2009
+DQ-12,WARNING,Invalid annual report URL,HINDUNILVR,2010
+DQ-12,WARNING,Invalid annual report URL,HINDUNILVR,2009
+DQ-12,WARNING,Invalid annual report URL,ICICIBANK,2009
+DQ-12,WARNING,Invalid annual report URL,ICICIGI,2009
+DQ-12,WARNING,Invalid annual report URL,ICICIPRULI,2011
+DQ-12,WARNING,Invalid annual report URL,ICICIPRULI,2010
+DQ-12,WARNING,Invalid annual report URL,ICICIPRULI,2009
+DQ-12,WARNING,Invalid annual report URL,INDIGO,2015
+DQ-12,WARNING,Invalid annual report URL,INDIGO,2014
+DQ-12,WARNING,Invalid annual report URL,INDIGO,2013
+DQ-12,WARNING,Invalid annual report URL,INDIGO,2012
+DQ-12,WARNING,Invalid annual report URL,INDIGO,2011
+DQ-12,WARNING,Invalid annual report URL,INDIGO,2010
+DQ-12,WARNING,Invalid annual report URL,INDIGO,2009
+DQ-12,WARNING,Invalid annual report URL,INDUSINDBK,2010
+DQ-12,WARNING,Invalid annual report URL,INDUSINDBK,2009
+DQ-12,WARNING,Invalid annual report URL,INFY,2010
+DQ-12,WARNING,Invalid annual report URL,INFY,2009
+DQ-12,WARNING,Invalid annual report URL,IOC,2024
+DQ-12,WARNING,Invalid annual report URL,IOC,2023
+DQ-12,WARNING,Invalid annual report URL,IOC,2010
+DQ-12,WARNING,Invalid annual report URL,IOC,2009
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2019
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2018
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2017
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2016
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2015
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2014
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2013
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2012
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2011
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2010
+DQ-12,WARNING,Invalid annual report URL,IRCTC,2009
+DQ-12,WARNING,Invalid annual report URL,IRFC,2020
+DQ-12,WARNING,Invalid annual report URL,IRFC,2019
+DQ-12,WARNING,Invalid annual report URL,IRFC,2018
+DQ-12,WARNING,Invalid annual report URL,IRFC,2017
+DQ-12,WARNING,Invalid annual report URL,IRFC,2016
+DQ-12,WARNING,Invalid annual report URL,IRFC,2015
+DQ-12,WARNING,Invalid annual report URL,IRFC,2014
+DQ-12,WARNING,Invalid annual report URL,IRFC,2013
+DQ-12,WARNING,Invalid annual report URL,IRFC,2012
+DQ-12,WARNING,Invalid annual report URL,IRFC,2011
+DQ-12,WARNING,Invalid annual report URL,IRFC,2010
+DQ-12,WARNING,Invalid annual report URL,IRFC,2009
+DQ-12,WARNING,Invalid annual report URL,ITC,2011
+DQ-12,WARNING,Invalid annual report URL,ITC,2010
+DQ-12,WARNING,Invalid annual report URL,ITC,2009
+DQ-12,WARNING,Invalid annual report URL,JINDALSTEL,2010
+DQ-12,WARNING,Invalid annual report URL,JINDALSTEL,2009
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2023
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2022
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2021
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2020
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2019
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2018
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2017
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2016
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2015
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2014
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2013
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2012
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2011
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2010
+DQ-12,WARNING,Invalid annual report URL,JIOFIN,2009
+DQ-12,WARNING,Invalid annual report URL,JSWENERGY,2011
+DQ-12,WARNING,Invalid annual report URL,JSWENERGY,2010
+DQ-12,WARNING,Invalid annual report URL,JSWENERGY,2009
+DQ-12,WARNING,Invalid annual report URL,JSWSTEEL,2010
+DQ-12,WARNING,Invalid annual report URL,JSWSTEEL,2009
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2023
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2022
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2021
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2017
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2016
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2015
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2013
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2012
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2011
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2010
+DQ-12,WARNING,Invalid annual report URL,KOTAKBANK,2009
+DQ-12,WARNING,Invalid annual report URL,LICI,2018
+DQ-12,WARNING,Invalid annual report URL,LICI,2017
+DQ-12,WARNING,Invalid annual report URL,LICI,2016
+DQ-12,WARNING,Invalid annual report URL,LICI,2015
+DQ-12,WARNING,Invalid annual report URL,LICI,2014
+DQ-12,WARNING,Invalid annual report URL,LICI,2013
+DQ-12,WARNING,Invalid annual report URL,LICI,2012
+DQ-12,WARNING,Invalid annual report URL,LICI,2011
+DQ-12,WARNING,Invalid annual report URL,LICI,2010
+DQ-12,WARNING,Invalid annual report URL,LICI,2009
+DQ-12,WARNING,Invalid annual report URL,LODHA,2020
+DQ-12,WARNING,Invalid annual report URL,LODHA,2019
+DQ-12,WARNING,Invalid annual report URL,LODHA,2018
+DQ-12,WARNING,Invalid annual report URL,LODHA,2017
+DQ-12,WARNING,Invalid annual report URL,LODHA,2016
+DQ-12,WARNING,Invalid annual report URL,LODHA,2015
+DQ-12,WARNING,Invalid annual report URL,LODHA,2014
+DQ-12,WARNING,Invalid annual report URL,LODHA,2013
+DQ-12,WARNING,Invalid annual report URL,LODHA,2012
+DQ-12,WARNING,Invalid annual report URL,LODHA,2011
+DQ-12,WARNING,Invalid annual report URL,LODHA,2010
+DQ-12,WARNING,Invalid annual report URL,LODHA,2009
+DQ-12,WARNING,Invalid annual report URL,LT,2010
+DQ-12,WARNING,Invalid annual report URL,LT,2009
+DQ-12,WARNING,Invalid annual report URL,LTIM,2016
+DQ-12,WARNING,Invalid annual report URL,LTIM,2015
+DQ-12,WARNING,Invalid annual report URL,LTIM,2014
+DQ-12,WARNING,Invalid annual report URL,LTIM,2013
+DQ-12,WARNING,Invalid annual report URL,LTIM,2012
+DQ-12,WARNING,Invalid annual report URL,LTIM,2011
+DQ-12,WARNING,Invalid annual report URL,LTIM,2010
+DQ-12,WARNING,Invalid annual report URL,LTIM,2009
+DQ-12,WARNING,Invalid annual report URL,M&M,2010
+DQ-12,WARNING,Invalid annual report URL,M&M,2009
+DQ-12,WARNING,Invalid annual report URL,MARUTI,2010
+DQ-12,WARNING,Invalid annual report URL,MARUTI,2009
+DQ-12,WARNING,Invalid annual report URL,MOTHERSON,2010
+DQ-12,WARNING,Invalid annual report URL,MOTHERSON,2009
+DQ-12,WARNING,Invalid annual report URL,NAUKRI,2010
+DQ-12,WARNING,Invalid annual report URL,NAUKRI,2009
+DQ-12,WARNING,Invalid annual report URL,NESTLEIND,2023
+DQ-12,WARNING,Invalid annual report URL,NHPC,2010
+DQ-12,WARNING,Invalid annual report URL,NHPC,2009
+DQ-12,WARNING,Invalid annual report URL,NTPC,2010
+DQ-12,WARNING,Invalid annual report URL,NTPC,2009
+DQ-12,WARNING,Invalid annual report URL,ONGC,2011
+DQ-12,WARNING,Invalid annual report URL,ONGC,2010
+DQ-12,WARNING,Invalid annual report URL,ONGC,2009
+DQ-12,WARNING,Invalid annual report URL,PFC,2010
+DQ-12,WARNING,Invalid annual report URL,PFC,2009
+DQ-12,WARNING,Invalid annual report URL,PIDILITIND,2011
+DQ-12,WARNING,Invalid annual report URL,PIDILITIND,2010
+DQ-12,WARNING,Invalid annual report URL,PIDILITIND,2009
+DQ-12,WARNING,Invalid annual report URL,PNB,2010
+DQ-12,WARNING,Invalid annual report URL,PNB,2009
+DQ-12,WARNING,Invalid annual report URL,POWERGRID,2010
+DQ-12,WARNING,Invalid annual report URL,POWERGRID,2009
+DQ-12,WARNING,Invalid annual report URL,RECLTD,2011
+DQ-12,WARNING,Invalid annual report URL,RECLTD,2010
+DQ-12,WARNING,Invalid annual report URL,RECLTD,2009
+DQ-12,WARNING,Invalid annual report URL,RELIANCE,2011
+DQ-12,WARNING,Invalid annual report URL,RELIANCE,2010
+DQ-12,WARNING,Invalid annual report URL,RELIANCE,2009
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2017
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2016
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2015
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2014
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2013
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2012
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2011
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2010
+DQ-12,WARNING,Invalid annual report URL,SBILIFE,2009
+DQ-12,WARNING,Invalid annual report URL,SBIN,2009
+DQ-12,WARNING,Invalid annual report URL,SHREECEM,2011
+DQ-12,WARNING,Invalid annual report URL,SHREECEM,2010
+DQ-12,WARNING,Invalid annual report URL,SHREECEM,2009
+DQ-12,WARNING,Invalid annual report URL,SHRIRAMFIN,2011
+DQ-12,WARNING,Invalid annual report URL,SHRIRAMFIN,2010
+DQ-12,WARNING,Invalid annual report URL,SHRIRAMFIN,2009
+DQ-12,WARNING,Invalid annual report URL,SIEMENS,2010
+DQ-12,WARNING,Invalid annual report URL,SIEMENS,2009
+DQ-12,WARNING,Invalid annual report URL,SUNPHARMA,2011
+DQ-12,WARNING,Invalid annual report URL,SUNPHARMA,2010
+DQ-12,WARNING,Invalid annual report URL,SUNPHARMA,2009
+DQ-12,WARNING,Invalid annual report URL,TATACONSUM,2010
+DQ-12,WARNING,Invalid annual report URL,TATACONSUM,2009
+DQ-12,WARNING,Invalid annual report URL,TATAMOTORS,2010
+DQ-12,WARNING,Invalid annual report URL,TATAMOTORS,2009
+DQ-12,WARNING,Invalid annual report URL,TATAPOWER,2010
+DQ-12,WARNING,Invalid annual report URL,TATAPOWER,2009
+DQ-12,WARNING,Invalid annual report URL,TATASTEEL,2010
+DQ-12,WARNING,Invalid annual report URL,TATASTEEL,2009
+DQ-12,WARNING,Invalid annual report URL,TCS,2010
+DQ-12,WARNING,Invalid annual report URL,TCS,2009
+DQ-12,WARNING,Invalid annual report URL,TECHM,2012
+DQ-12,WARNING,Invalid annual report URL,TECHM,2011
+DQ-12,WARNING,Invalid annual report URL,TECHM,2010
+DQ-12,WARNING,Invalid annual report URL,TECHM,2009
+DQ-12,WARNING,Invalid annual report URL,TITAN,2011
+DQ-12,WARNING,Invalid annual report URL,TITAN,2010
+DQ-12,WARNING,Invalid annual report URL,TITAN,2009
+DQ-12,WARNING,Invalid annual report URL,TORNTPHARM,2010
+DQ-12,WARNING,Invalid annual report URL,TORNTPHARM,2009
+DQ-12,WARNING,Invalid annual report URL,TRENT,2010
+DQ-12,WARNING,Invalid annual report URL,TRENT,2009
+DQ-12,WARNING,Invalid annual report URL,TVSMOTOR,2010
+DQ-12,WARNING,Invalid annual report URL,TVSMOTOR,2009
+DQ-12,WARNING,Invalid annual report URL,ULTRACEMCO,2011
+DQ-12,WARNING,Invalid annual report URL,ULTRACEMCO,2010
+DQ-12,WARNING,Invalid annual report URL,ULTRACEMCO,2009
+DQ-12,WARNING,Invalid annual report URL,UNIONBANK,2010
+DQ-12,WARNING,Invalid annual report URL,UNIONBANK,2009
+DQ-12,WARNING,Invalid annual report URL,UNITDSPR,2011
+DQ-12,WARNING,Invalid annual report URL,UNITDSPR,2010
+DQ-12,WARNING,Invalid annual report URL,UNITDSPR,2009
+DQ-12,WARNING,Invalid annual report URL,VBL,2024
+DQ-12,WARNING,Invalid annual report URL,VBL,2015
+DQ-12,WARNING,Invalid annual report URL,VBL,2014
+DQ-12,WARNING,Invalid annual report URL,VBL,2013
+DQ-12,WARNING,Invalid annual report URL,VBL,2012
+DQ-12,WARNING,Invalid annual report URL,VBL,2011
+DQ-12,WARNING,Invalid annual report URL,VBL,2010
+DQ-12,WARNING,Invalid annual report URL,VBL,2009
+DQ-12,WARNING,Invalid annual report URL,VEDL,2010
+DQ-12,WARNING,Invalid annual report URL,VEDL,2009
+DQ-12,WARNING,Invalid annual report URL,WIPRO,2010
+DQ-12,WARNING,Invalid annual report URL,WIPRO,2009
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2021
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2020
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2019
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2018
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2017
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2016
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2015
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2014
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2013
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2012
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2011
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2010
+DQ-12,WARNING,Invalid annual report URL,ZOMATO,2009
+DQ-12,WARNING,Invalid annual report URL,ZYDUSLIFE,2010
+DQ-12,WARNING,Invalid annual report URL,ZYDUSLIFE,2009
+DQ-13,WARNING,Positive profit but EPS is non-positive,JSWENERGY,Mar 2018
+DQ-13,WARNING,Positive profit but EPS is non-positive,TATAPOWER,Mar 2013
+DQ-13,WARNING,Positive profit but EPS is non-positive,TATAPOWER,Mar 2014
+DQ-13,WARNING,Positive profit but EPS is non-positive,VBL,Dec 2016
+DQ-13,WARNING,Positive profit but EPS is non-positive,ZOMATO,Mar 2024
+DQ-14,WARNING,Less than 5 years of P&L data,JIOFIN,
+DQ-15,WARNING,Missing values found in companies,,
+DQ-15,WARNING,Missing values found in profitandloss,,
+DQ-15,WARNING,Missing values found in balancesheet,,
+DQ-15,WARNING,Missing values found in cashflow,,
