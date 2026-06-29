@@ -108,6 +108,26 @@ output_cols = [
 output = merged[output_cols]
 
 output.to_csv("output/day09_leverage_efficiency.csv", index=False)
+high_leverage = output[
+    output["high_leverage_flag"] == True
+]
+
+high_leverage.to_csv(
+    "output/high_leverage_companies.csv",
+    index=False
+)
+debt_free = output[
+    output["icr_label"] == "Debt Free"
+]
+
+debt_free.to_csv(
+    "output/debt_free_companies.csv",
+    index=False
+)
+
+print("Debt free companies:", len(debt_free))
+
+print("High leverage companies:", len(high_leverage))
 
 print("Day 09 leverage and efficiency ratios generated successfully")
 print("Rows:", len(output))
