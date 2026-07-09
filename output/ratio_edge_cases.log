@@ -1,0 +1,23 @@
+Ratio Edge Cases Log - Day 13
+============================================================
+Financials sector companies identified: 23
+High leverage warning suppressed for Financials sector companies.
+
+TATASTEEL | Mar 2024 | ROE anomaly | computed=-5.33, source=6.55, diff=11.88 | category=version difference | sector=Materials
+GODREJCP | Mar 2024 | ROE anomaly | computed=-4.45, source=6.77, diff=11.22 | category=version difference | sector=Consumer Staples
+ADANIENT | Mar 2024 | ROE anomaly | computed=8.53, source=13.64, diff=5.11 | category=version difference | sector=Industrials
+LICI | Mar 2024 | ROE anomaly | computed=49.45, source=63.61, diff=14.16 | category=version difference | sector=Financials
+COALINDIA | Mar 2024 | ROE anomaly | computed=45.17, source=52.00, diff=6.83 | category=version difference | sector=Materials
+BPCL | Mar 2024 | ROE anomaly | computed=35.51, source=41.90, diff=6.39 | category=version difference | sector=Energy
+BAJAJFINSV | Mar 2024 | ROE anomaly | computed=25.85, source=11.72, diff=14.13 | category=version difference | sector=Financials
+TRENT | Mar 2024 | ROE anomaly | computed=36.31, source=27.20, diff=9.11 | category=version difference | sector=Consumer Discretionary
+PFC | Mar 2024 | ROE anomaly | computed=26.16, source=19.49, diff=6.67 | category=version difference | sector=Financials
+HAL | Mar 2024 | ROE anomaly | computed=3816.58, source=28.90, diff=3787.68 | category=data source issue | sector=Industrials
+TCS | Mar 2024 | ROE anomaly | computed=50.94, source=0.52, diff=50.42 | category=data source issue | sector=Information Technology
+BEL | Mar 2024 | ROE anomaly | computed=4744.05, source=26.30, diff=4717.75 | category=data source issue | sector=Industrials
+PNB | Mar 2024 | ROE anomaly | computed=61.32, source=8.70, diff=52.62 | category=data source issue | sector=Financials
+TATAMOTORS | Mar 2024 | ROE anomaly | computed=37.46, source=49.40, diff=11.94 | category=version difference | sector=Consumer Discretionary
+NESTLEIND | Mar 2024 | ROE anomaly | computed=117.75, source=135.61, diff=17.86 | category=formula discrepancy | sector=Consumer Staples
+IRCTC | Mar 2024 | ROE anomaly | computed=34.40, source=40.40, diff=6.00 | category=version difference | sector=Consumer Discretionary
+ADANIPOWER | Mar 2024 | ROE anomaly | computed=48.28, source=57.10, diff=8.82 | category=version difference | sector=Energy
+LT | Mar 2024 | ROE anomaly | computed=77.67, source=10.49, diff=67.18 | category=data source issue | sector=Industrials
