@@ -1,0 +1,27 @@
+Sprint 2 Retrospective
+
+Completed:
+- Profitability Ratio Engine
+- Leverage & Efficiency Ratio Engine
+- CAGR Engine
+- Cash Flow KPI Engine
+- Financial Ratios SQLite Integration
+- Edge Case Logging
+
+Key Decisions:
+- Implemented sector-specific handling for Financials.
+- Added CAGR edge case flags.
+- Logged ROE and ROCE anomalies.
+- Removed duplicate company-year records before loading into SQLite.
+
+Challenges:
+- Duplicate company-year records during merge.
+- Source ROE inconsistencies.
+- Import path issues.
+- SQLite merge validation.
+
+Outcome:
+- 1263 unique company-year records populated.
+- 23 KPI columns in financial_ratios.
+- All KPI unit tests passed.
+- Database validated and ready for the next sprint.
