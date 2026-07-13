@@ -6,7 +6,10 @@ import pandas as pd
 import yaml
 
 sys.path.append(os.path.abspath("."))
-
+from src.screener.scoring import (
+    add_scoring_inputs,
+    add_composite_quality_score,
+)
 
 def load_config(config_path="config/screener_config.yaml"):
     with open(config_path, "r", encoding="utf-8") as file:
@@ -210,73 +213,6 @@ def load_financial_data(db_path="db/nifty100.db"):
 
     return df
 
-
-def add_composite_quality_score(df):
-    df = df.copy()
-
-    score = pd.Series(
-        0.0,
-        index=df.index,
-    )
-
-    score += (
-        df["return_on_equity_pct"]
-        .fillna(0)
-        .clip(0, 30)
-        / 30
-        * 30
-    )
-
-    score += (
-        df["net_profit_margin_pct"]
-        .fillna(0)
-        .clip(0, 25)
-        / 25
-        * 20
-    )
-
-    score += (
-        df["revenue_cagr_5yr"]
-        .fillna(0)
-        .clip(0, 25)
-        / 25
-        * 20
-    )
-
-    debt_score = (
-        1
-        - (
-            df["debt_to_equity"]
-            .fillna(5)
-            .clip(0, 5)
-            / 5
-        )
-    ) * 15
-
-    # Financials are not penalized by the normal D/E scoring rule.
-    financial_mask = df["broad_sector"].eq(
-        "Financials"
-    )
-
-    debt_score.loc[financial_mask] = 15
-
-    score += debt_score
-
-    score += (
-        df["free_cash_flow_cr"]
-        .fillna(0)
-        .gt(0)
-        .astype(int)
-        * 15
-    )
-
-    df["composite_quality_score"] = (
-        score.clip(0, 100).round(2)
-    )
-
-    return df
-
-
 def apply_filters(df, filters):
     result = df.copy()
 
@@ -427,6 +363,7 @@ def run_screener(
         )
 
     df = load_financial_data()
+    df = add_scoring_inputs(df)
     df = add_composite_quality_score(df)
 
     filters = config[preset_name]
