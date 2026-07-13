@@ -1,0 +1,24 @@
+Sprint 3 Retrospective
+
+Completed:
+- Filter Engine
+- 6 Preset Screeners
+- Composite Quality Score
+- Screener Excel Export
+- Peer Percentile Rankings
+- Radar Charts
+- Peer Comparison Excel Report
+
+Achievements:
+- Generated screener_output.xlsx with six preset screeners.
+- Calculated percentile rankings across 11 peer groups.
+- Generated radar charts for peer comparison.
+- Produced peer_comparison.xlsx with formatted peer analysis.
+
+Challenges:
+- Dataset limitations resulted in fewer companies for some presets.
+- Implemented sector-aware handling for Financials.
+- Added historical Debt-to-Equity trend detection.
+
+Outcome:
+Sprint 3 objectives completed successfully.
