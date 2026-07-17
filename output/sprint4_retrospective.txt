@@ -1,0 +1,43 @@
+Sprint 4 Retrospective
+
+Completed:
+- Streamlit application scaffold
+- Eight dashboard screens
+- Home market overview
+- Company profile analytics
+- Financial screener with CSV export
+- Peer comparison radar charts
+- Trend analysis screen
+- Sector analysis screen
+- Capital allocation map
+- Annual report browser
+- Valuation module
+- Valuation summary and flag exports
+
+UX Decisions:
+- Used a wide dashboard layout for charts and tables.
+- Used sidebar navigation for all eight screens.
+- Added friendly messages for invalid tickers and missing data.
+- Used responsive Plotly charts throughout the dashboard.
+- Added CSV export to the screener.
+- Highlighted benchmark companies in peer tables.
+
+Data Edge Cases:
+- Excluded TTM rows when annual comparisons were required.
+- Displayed N/A when metrics were unavailable.
+- Handled companies with fewer than ten years of data.
+- Treated missing annual report URLs as unavailable.
+- Suppressed standard debt-to-equity penalties for Financials.
+- Logged extreme ROE and ROCE values for review.
+
+Performance:
+- Added Streamlit cache decorators with a 600-second TTL.
+- Loaded only required tables and columns.
+- Reused shared database utility functions.
+- Company profile pages were tested across multiple tickers.
+
+Outcome:
+- All eight Streamlit screens load successfully.
+- Screener CSV download works.
+- Valuation outputs were generated.
+- Dashboard is ready for final review and demonstration.

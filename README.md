@@ -1,22 +1,72 @@
-# N100 Financial Intelligence Platform
+\# Nifty 100 Financial Intelligence Platform
 
-Sprint 1 - Data Foundation
 
-This project builds the data foundation for the N100 Financial Intelligence Platform.
 
-## Components
+A complete financial analytics platform for Nifty 100 companies, built using Python, SQLite, Pandas, Plotly, Streamlit, and Excel reporting.
 
-- ETL Pipeline
-- Data Validation
-- SQLite Database
-- Financial Analytics
 
-## Sprint 1 Deliverables
 
-- nifty100.db
-- loader.py
-- normaliser.py
-- validator.py
-- schema.sql
-- load_audit.csv
-- validation_failures.csv
+\## Features
+
+
+
+\- Financial ratio engine
+
+\- CAGR and cash-flow analytics
+
+\- Six preset financial screeners
+
+\- Peer-group percentile comparison
+
+\- Radar charts
+
+\- Sector analysis
+
+\- Capital allocation analysis
+
+\- Annual report links
+
+\- Valuation analysis
+
+\- Interactive Streamlit dashboard
+
+
+
+\## Project Structure
+
+
+
+```text
+
+src/
+
+&#x20; analytics/
+
+&#x20; dashboard/
+
+&#x20; etl/
+
+&#x20; screener/
+
+
+
+data/
+
+&#x20; raw/
+
+&#x20; processed/
+
+
+
+db/
+
+&#x20; nifty100.db
+
+
+
+output/
+
+reports/
+
+tests/
+
